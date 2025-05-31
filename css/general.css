@@ -1,0 +1,73 @@
+body {
+    background: #553e62;
+  }
+  footer{
+    display: block;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    z-index: -1;
+  }
+  .container {
+    margin-bottom: 3rem !important;
+  }
+  .card-body{
+    background-color: #212529;
+    border-radius: 5px;
+    border: solid 1px black;
+  }
+  .card{
+    border: 0;
+    align-items: center;
+    text-align: center;
+  } 
+  .card-title{
+    color: rgb(255, 255, 255);
+  }
+  .card-text{
+    color: #b8b8b8;
+  }
+  .text-primary{
+    color: white !important;
+  }
+  .btn-outline{
+    border-color: #212529;
+    color: #b8b8b8;
+    background-color: #212529;
+  }
+  .btn-outline:hover{
+    border-color: black;
+    color: #b8b8b8;
+    background-color: black;
+  }
+  .text-center{
+    color: white;
+  }
+  .lead{
+    color: #b8b8b8;
+  }
+  .btn-generaly{
+    background-color: #553e62;
+  }
+
+  /* 5. Purple to Pink Gradient with border animation */
+.btn5 {
+    background: linear-gradient(135deg, #667eea, #764ba2);
+    border: 2px solid transparent;
+    background-clip: border-box;
+    transition: all 0.4s ease;
+  }
+  .btn5:hover {
+    background: linear-gradient(135deg, #764ba2, #667eea);
+    border-color: #fff;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+    transform: translateY(-2px);
+  }
+
+  .register-card{
+    background-color: #212529;
+    border-color: black;
+  }
+  .form-label{
+    color: white;
+  }
