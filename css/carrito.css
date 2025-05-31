@@ -1,0 +1,15 @@
+.header {
+    background-color: #0d6efd;
+    color: white;
+    padding: 1rem;
+  }
+
+  .carrito-item {
+    border-bottom: 1px solid #ccc;
+    padding: 1rem 0;
+  }
+
+  .total {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }

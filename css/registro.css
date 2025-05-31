@@ -1,0 +1,35 @@
+body {
+    background: #f2f4f8;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .register-card {
+    background: white;
+    border: 2px solid #dee2e6;
+    border-radius: 12px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+    padding: 2.5rem;
+    width: 100%;
+    max-width: 500px;
+  }
+
+  .register-card h2 {
+    font-weight: 700;
+    color: #007bff;
+  }
+
+  .input-group-text {
+    background-color: #f8f9fa;
+  }
+
+  .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+
+  .btn-primary:hover {
+    background-color: #0056b3;
+  }

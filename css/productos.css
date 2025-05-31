@@ -1,0 +1,13 @@
+body {
+    background-color: #f8f9fa;
+  }
+
+  .header {
+    background-color: #198754;
+    color: white;
+    padding: 1rem;
+  }
+
+  .card {
+    margin-top: 1rem;
+  }
